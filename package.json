@@ -20,7 +20,6 @@
     "run": "ts-node -r tsconfig-paths/register",
     "test": "jest",
     "lint": "eslint",
-    "prepublish": "npm run build",
     "storybook": "storybook dev -p 6006",
     "build-storybook": "storybook build"
   },
